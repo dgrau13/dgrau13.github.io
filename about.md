@@ -1,4 +1,4 @@
 ---
-layout: about
-title: "about me"
+layout: research
+title: "research"
 ---
