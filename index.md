@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Hello! My name is Danielle Grau. I'm originally from Fort-Lauderdale, Florida, which is an area that will be highly impacted by sea-level rise and climate change. This lead me to pursue a gradute study that focuses on the impact of climate change and that can improve sea-level rise predictions. My love of math and physics in grade school led to get my Bsc in Physics at Florida International Univerisity. I'm currently a 5th-year PhD candidate studying glaciology with Alexander Robel at Georgia Institute of Technology. My research mainly focuses on the realtionship between glacial surface roughness and supraglacial melt lake formation, and the impact that supraglacial melt lakes have in large-scale climate/glacial model predictions. 
