@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 title: CV
 ---
 <p>This is a copy of my CV as of April 2025.</p>
