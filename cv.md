@@ -2,7 +2,7 @@
 layout: cv
 title: CV
 ---
-<p>This is a copy of my CV as of April 2025.</p>
+<p>This is a copy of my CV as of July 2025.</p>
 
 <object data="_data/cv/DGrauCV20250715.pdf" type="application/pdf" width="100%" height="1000">
   
