@@ -5,9 +5,9 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 research:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+- {name: 'Self-Affinity of the Antarctic Ice Sheet', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Physics-Based Parameterizations for Mean Supraglacial Melt Lake Depth and Area Fraction', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+- {name: 'Graduate Student', title: 'SGLs into ISMIP6', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 social:
 - {icon: 'github', link: 'https://github.com/dgrau13'}
