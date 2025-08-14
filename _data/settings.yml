@@ -5,8 +5,8 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 research:
-- {name: 'Self-Affinity of the Antarctic Ice Sheet', image: 'assets/img/Project1.jpg'}
-- {name: 'Physics-Based Parameterizations for Mean Supraglacial Melt Lake Depth and Area Fraction', image: 'assets/img/CwalkerGIF.gif'}
+- {name: 'Self-Affinity of the Antarctic Ice Sheet', image: 'assets/img/Project1.png'}
+- {name: 'Physics-Based Parameterizations for Mean Supraglacial Melt Lake Depth and Area Fraction', image: 'assets/img/CWalkerGIF.gif'}
 - {name: 'Implementation of Supraglacial Melt Lake Parameterizations into ISSM Calving Scheme', title: 'SGLs into ISMIP6', image: 'assets/img/graduate-student.jpg'}
 
 social:
