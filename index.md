@@ -8,4 +8,4 @@ Hello! My name is Danielle Grau. I'm a current 5th-year PhD candidate studying g
 
 My love of Physics and Mathematics in grade school led me to pursue a BSc in Physics at Florida International University. After completing a summer REU in glaciology, I decided to pursue a graduate study that focuses on the impact that glaciers have on climate change and on sea-level rise predictions.  
 
-My current research mainly focuses on the relationship between glacial surface roughness and supraglacial melt lake formation, and the impact that supraglacial melt lakes have on large-scale climate/glacial model predictions. I am currently in the final year of my graduate studies and searching for postdoc opportunities.
+My current research mainly focuses on the relationship between glacial surface roughness and supraglacial melt lake formation, and the impact that supraglacial melt lakes have on large-scale climate and glacial model predictions. I am currently in the final year of my graduate studies and searching for postdoc opportunities.
