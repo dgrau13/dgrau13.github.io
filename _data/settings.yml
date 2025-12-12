@@ -5,7 +5,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 research:
-- {name: 'Self-Affinity of the Antarctic Ice Sheet', image: 'assets/img/Project1.png', description: ''}
+- {name: 'Self-Affinity of the Antarctic Ice Sheet', image: 'assets/img/Project1.png', description: 'Most of the surface of Earth has the fractal property known as self-affinity. This fractal property describes how the vertical topography changes along different horizontal length scales; this can be quantified through a variables called the Hurst exponent (H). In this work, I have calculated the surface roughness, including the Hurst expoenent, across the entirety of the Antarctic continent using ICESat-2 ATL006 land-ice elevation altimetry tracks.'}
 - {name: 'Physics-Based Parameterizations for Mean Supraglacial Melt Lake Depth and Area Fraction', image: 'assets/img/CWalkerGIF.gif', description: ''}
 - {name: 'Implementation of Supraglacial Melt Lake Parameterizations into ISSM Calving Scheme', title: 'SGLs into ISMIP6', image: 'assets/img/ISMIP6Configurations.png', description: ''}
 
