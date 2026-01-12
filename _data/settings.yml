@@ -1,7 +1,7 @@
 menu:
 - {name: 'research', url: '/research'}
 - {name: 'publications', url: '/publications'}
-- {name: 'cv', url: '/assets/cv/DGrauCV_250808.pdf'}
+- {name: 'cv', url: '/assets/cv/DGrauCV260108.pdf'}
 - {name: 'contact', url: '/contact'}
 
 research:
