@@ -14,6 +14,7 @@ social:
 - {icon: 'github', link: 'https://github.com/dgrau13'}
 - {icon: 'bluesky', link: 'https://bsky.app/profile/dgrau13.bsky.social'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/danielle-grau'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=xKeklUAAAAAJ&hl=en&oi=ao'}
 
 contacts:
 - {name: 'Danielle Grau', title: 'Graduate Research Assistant', department: 'Earth and Atmospheric Sciences', institution: 'Georgia Institute of Technology', institution_address: '311 Ferst Dr., Atlanta, Georgia 30318, USA', email: 'dgrau7@gatech.edu', office: 'ES&T 2124', image: 'assets/img/IMG_0076.jpg'}
