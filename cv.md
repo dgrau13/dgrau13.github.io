@@ -1,9 +1,6 @@
 ---
 layout: default
 title: "CV"
-{% permalink: /cv/ %}
-{% redirect_from:
-  - /cv %}
 ---
 
 {% include base_path %}
