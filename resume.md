@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: resume
 title: Résumé
 ---
 <p>This is a copy of my Resume as of March 2026.</p>
