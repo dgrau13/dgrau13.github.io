@@ -1,7 +1,16 @@
----
-layout: default
----
-
-{{ content }}
-
-{% include resume.html %}
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head.html %}
+  <body>
+    <div class="col-lg-8 mx-auto p-3 py-md-5">
+      {% include header.html %}
+      <object class="pdf" 
+            data=
+"https://dgrau13.github.io/assets/cv/DGrauResume.pdf"
+            width="800"
+            height="500">
+    </object>
+      {% include footer.html %}
+    </div>
+  </body>
+</html>
