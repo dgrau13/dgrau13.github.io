@@ -18,4 +18,4 @@ social:
 - {icon: 'orcid', link: 'https://orcid.org/0000-0001-8750-6001'}
 
 contacts:
-- {name: 'Danielle Grau', title: 'Graduate Research Assistant', department: 'Earth and Atmospheric Sciences', institution: 'Georgia Institute of Technology', institution_address: '311 Ferst Dr., Atlanta, Georgia 30318, USA', email: 'dgrau7@gatech.edu', office: 'ES&T 2124', image: 'assets/img/IMG_0076.jpg'}
+- {name: 'Danielle Grau PhD', title: 'Graduate Research Assistant', department: 'Earth and Atmospheric Sciences', institution: 'Georgia Institute of Technology', institution_address: '311 Ferst Dr., Atlanta, Georgia 30318, USA', email: 'dgrau7@gatech.edu', office: 'ES&T 2124', image: 'assets/img/IMG_0076.jpg'}
