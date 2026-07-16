@@ -8,4 +8,4 @@ Hello! My name is Danielle Grau. I'm a current fifth-year PhD candidate in glaci
 
 My love of Physics and Mathematics in grade school led me to pursue a BS in Physics at Florida International University. After completing a summer REU in glaciology, I decided to pursue graduate studies that focus on the impact of glaciers on the evolving climate and sea-level rise predictions.  
 
-My current research mainly focuses on the relationship between glacial surface roughness and supraglacial melt lake formation, and the impact that supraglacial melt lakes have on large-scale climate and glacial model predictions. I am currently in the final year of my graduate studies and searching for postdoctoral and employment opportunities.
+My current research mainly focuses on the relationship between glacial surface roughness and supraglacial melt lake formation, and the impact that supraglacial melt lakes have on large-scale climate and glacial model predictions. I am currently a postdoctoral researcher for the Ice Sheet & Sea Level Lab at the University at Buffalo.
