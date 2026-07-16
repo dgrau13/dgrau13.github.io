@@ -1,8 +1,8 @@
 featured:
 - {name: 'Grau, D., Hussain, A. & Robel, A.A. Predicting mean depth and area fraction of Antarctic supraglacial melt lakes with physics-based parameterizations. Nat Commun 16, 6518 (2025).', url: 'https://doi.org/10.1038/s41467-025-61798-8'}
-- {name: 'Grau, D., Poinelli, M., Schlegel, N.J., Seroussi, H., & Robel, A.A. Accelerated Ice Loss from Antarctica in Simulations with Calving Driven by Supraglacial Melt Lake Depth. In Review (2026).'}
+- {name: 'Grau, D., Poinelli, M., Schlegel, N.J., Seroussi, H., & Robel, A.A. Accelerated Ice Loss from Antarctica in Simulations with Calving Driven by Supraglacial Melt Lake Depth. In Review (2026).', url: 'https://doi.org/10.22541/essoar.15006172/v1'}
 
 
 index:
-- {name: 'Grau, D., Hussain, A. & Robel, A.A. Predicting mean depth and area fraction of Antarctic supraglacial melt lakes with physics-based parameterizations. Nat Commun 16, 6518 (2025).', url: 'https://doi.org/10.22541/essoar.15006172/v1'}
-- {name: 'Grau, D., Poinelli, M., Schlegel, N.J., Seroussi, H., & Robel, A.A. Accelerated Ice Loss from Antarctica in Simulations with Calving Driven by Supraglacial Melt Lake Depth. In Review (2026).'}
+- {name: 'Grau, D., Hussain, A. & Robel, A.A. Predicting mean depth and area fraction of Antarctic supraglacial melt lakes with physics-based parameterizations. Nat Commun 16, 6518 (2025).', url:'https://doi.org/10.1038/s41467-025-61798-8'}
+- {name: 'Grau, D., Poinelli, M., Schlegel, N.J., Seroussi, H., & Robel, A.A. Accelerated Ice Loss from Antarctica in Simulations with Calving Driven by Supraglacial Melt Lake Depth. In Review (2026).',url: 'https://doi.org/10.22541/essoar.15006172/v1'}
